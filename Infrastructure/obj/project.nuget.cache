@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0z7p4jTL8lltudgfGG6vqD9aLyVN6YlunZumeDpSUezXCviZP7GzYThXw9Ibf1S+5mTpjwzWBo8BvaCIp3HOA==",
+  "success": true,
+  "projectFilePath": "C:\\C project\\ObsCQRS\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karsl\\.nuget\\packages\\awssdk.core\\4.0.0-preview.4\\awssdk.core.4.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\awssdk.extensions.netcore.setup\\4.0.0-preview.4\\awssdk.extensions.netcore.setup.4.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\awssdk.simpleemail\\4.0.0-preview.4\\awssdk.simpleemail.4.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\stackexchange.redis\\2.8.16\\stackexchange.redis.2.8.16.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

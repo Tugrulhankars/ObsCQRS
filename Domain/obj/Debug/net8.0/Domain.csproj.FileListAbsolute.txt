@@ -1,0 +1,12 @@
+C:\C project\ObsCQRS\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\C project\ObsCQRS\Domain\bin\Debug\net8.0\Domain.dll
+C:\C project\ObsCQRS\Domain\bin\Debug\net8.0\Domain.pdb
+C:\C project\ObsCQRS\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\C project\ObsCQRS\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\C project\ObsCQRS\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\C project\ObsCQRS\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\C project\ObsCQRS\Domain\obj\Debug\net8.0\Domain.dll
+C:\C project\ObsCQRS\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\C project\ObsCQRS\Domain\obj\Debug\net8.0\Domain.pdb
+C:\C project\ObsCQRS\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\C project\ObsCQRS\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
